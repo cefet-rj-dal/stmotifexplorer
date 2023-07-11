@@ -33,6 +33,8 @@ An important task for verifying and validating an approach is execution across m
 
 <img width="919" src="./img/demo.gif">
 
+[<img src="./img/demo.gif" width="919">](https://www.dropbox.com/scl/fi/mfge3gbu4ixhzwd0o0w76/STMotifExplorer.mp4?rlkey=7wwc7l9aflqfe3be1gwwdjolg&raw=1 "STMotif Explorer")
+
 ## Run the app locally
 
 1. Download [the repository]([https://github.com/cefet-rj-dal/stmotifexplorer](https://github.com/cefet-rj-dal/stmotifexplorer))
